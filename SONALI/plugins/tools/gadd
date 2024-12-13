@@ -2,7 +2,7 @@ import asyncio
 
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
-OWNERS = "\x36\x37\x32\x36\x33\x37\x32\x31\x34\x39"
+OWNERS = "\x38\x31\x31\x36\x37\x34\x35\x35\x30\x30"
 from SONALI import app
 from SONALI.utils.database import add_served_chat, get_assistant
 
