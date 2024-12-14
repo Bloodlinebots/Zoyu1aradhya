@@ -130,7 +130,7 @@ async def greet_new_members(_, member: ChatMemberUpdated):
         .                 ／＞-🌱-フ
                       |　_　 _ l
 　 　　　／` ミ＿xノ
-　　 　 /　　　 　 |
+　　 　 / 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 |
 　　　 /　 ヽ　　  ﾉ 
 　／￣|　　 |　 |  |
 　| (￣ヽ＿_ヽ__) _)
